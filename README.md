@@ -102,18 +102,30 @@ You have three options there:
 
     When you go to your MONGO DB Compass, you will see the new todo added.
 
-    # Github Basics To Remind...
+    # Github Basics To Remember...
 
     …or create a new repository on the command line
+
         echo "# todo-app" >> README.md
+
         git init
+
         git add README.md
+
         git commit -m "first commit"
+
         git branch -M main
+
         git remote add origin https://github.com/C7197-Recep/todo-app.git
+
         git push -u origin main
+
         
     …or push an existing repository from the command line
+
         git remote add origin https://github.com/C7197-Recep/todo-app.git
+
         git branch -M main
+
         git push -u origin main
+        
