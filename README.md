@@ -102,6 +102,12 @@ You have three options there:
 
     When you go to your MONGO DB Compass, you will see the new todo added.
 
+    # If You Want To Start From Scratch
+
+    Follow this guide:
+    
+    https://loopback.io/doc/en/lb4/todo-tutorial.html
+
     # Github Basics To Remember...
 
     …or create a new repository on the command line
@@ -128,4 +134,3 @@ You have three options there:
         git branch -M main
 
         git push -u origin main
-        
